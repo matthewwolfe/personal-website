@@ -4,7 +4,7 @@
   "description": "Personal Website",
   "main": "index.js",
   "scripts": {
-    "build": "simplemark"
+    "build": "simplemark -c ./css/global.css"
   },
   "repository": {
     "type": "git",
