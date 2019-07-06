@@ -1,0 +1,22 @@
+{
+  "name": "matthewwolfe.github.io",
+  "version": "0.0.1",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "build": "simplemark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewwolfe/matthewwolfe.github.io.git"
+  },
+  "author": "Matthew Wolfe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewwolfe/matthewwolfe.github.io/issues"
+  },
+  "homepage": "https://github.com/matthewwolfe/matthewwolfe.github.io#readme",
+  "devDependencies": {
+    "@matthewwolfe/simplemark": "0.0.2"
+  }
+}
